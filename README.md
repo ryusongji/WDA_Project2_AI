@@ -22,9 +22,11 @@ width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https
 </tr>
     
 
- ![image](https://user-images.githubusercontent.com/53076307/172118866-60537e28-6a81-4336-9a0b-73bb2853fbf1.png)
 
 </table>
+
+![image](https://user-images.githubusercontent.com/53076307/172118932-8785c1cd-2171-4dfc-8b6b-8e7b3ca2e151.png)
+
 
 <td align="center"><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/923dfe4fe8984c91fa387e8b3e66fadebc23ccb5/AI/%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5">
 <br /><sub><b>지도학습</b></sub></a><br /><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/923dfe4fe8984c91fa387e8b3e66fadebc23ccb5/AI/%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5" title="Code">
