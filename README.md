@@ -86,6 +86,7 @@ width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https
 <td align="center"><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/d95d1c12f3cb9ab768e5226e746d560519ca8b08/AI/%EA%B0%95%ED%99%94%20%ED%95%99%EC%8A%B5.pdf">
 <br /><sub><b>강화학습pdf</b></sub></a><br /><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/d95d1c12f3cb9ab768e5226e746d560519ca8b08/AI/%EA%B0%95%ED%99%94%20%ED%95%99%EC%8A%B5.pdf" title="Code">
 </tr>
+
 # 3가지 학습 외 인공지능 학습
 자기지도학습
 준지도학습(Semi – Supervised Learning)
@@ -94,6 +95,7 @@ width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https
 <td align="center"><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/d95d1c12f3cb9ab768e5226e746d560519ca8b08/AI/3%EA%B0%80%EC%A7%80%20%ED%95%99%EC%8A%B5%20%EC%99%B8%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%95%99%EC%8A%B5.pdf">
 <br /><sub><b>3가지 학습 외 인공지능 학습pdf</b></sub></a><br /><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/d95d1c12f3cb9ab768e5226e746d560519ca8b08/AI/3%EA%B0%80%EC%A7%80%20%ED%95%99%EC%8A%B5%20%EC%99%B8%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%95%99%EC%8A%B5.pdf" title="Code">
 </tr>
+
 # 인공지능 학습 관련 단어들
 데이터 라벨링
 **점점 추가할 예정
@@ -102,3 +104,5 @@ width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https
 <td align="center"><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/d95d1c12f3cb9ab768e5226e746d560519ca8b08/AI/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%95%99%EC%8A%B5%20%EA%B4%80%EB%A0%A8%20%EB%8B%A8%EC%96%B4%EB%93%A4.pdf">
 <br /><sub><b>인공지능 학습관련 단어들pdf</b></sub></a><br /><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/d95d1c12f3cb9ab768e5226e746d560519ca8b08/AI/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%95%99%EC%8A%B5%20%EA%B4%80%EB%A0%A8%20%EB%8B%A8%EC%96%B4%EB%93%A4.pdf" title="Code">
 </tr>
+
+</table>
