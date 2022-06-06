@@ -33,7 +33,10 @@ width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https
 
 # 모델링
 
-# 지도학습
+# 지도학습(supervised learning)
+
+(= 입력과 타깃으로 모델을 훈련)
+지도 학습은 인간이 프로그램을 지도해주는 것이다.
 
  </table>
  <tr>
