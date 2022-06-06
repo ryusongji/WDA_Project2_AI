@@ -24,6 +24,9 @@ width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https
 
 
 </table>
+
+
+
 # 인공지능과 머신러닝과 딥러닝
 
 # 지도학습, 비지도학습, 강화학습
