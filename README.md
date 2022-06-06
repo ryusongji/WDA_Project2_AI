@@ -106,3 +106,23 @@ width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https
 </tr>
 
 </table>
+
+# 인공지능 학습 관련 알고리즘 코드
+</table>
+<tr>
+<td align="center"><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/be2e61acdea360a0747bfd57bfbb7547e147ca01/AI/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Support%20vector%20machine">
+<br /><sub><b>Support vector machine.code</b></sub></a><br /><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/be2e61acdea360a0747bfd57bfbb7547e147ca01/AI/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Support%20vector%20machine" title="Code">
+</tr>
+  </table>
+<tr>
+<td align="center"><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/be2e61acdea360a0747bfd57bfbb7547e147ca01/AI/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/k-mean%20clustering">
+<br /><sub><b>k-mean clustering.code</b></sub></a><br /><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/be2e61acdea360a0747bfd57bfbb7547e147ca01/AI/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/k-mean%20clustering" title="Code">
+</tr>
+  </table>
+<tr>
+<td align="center"><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/be2e61acdea360a0747bfd57bfbb7547e147ca01/AI/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4">
+<br /><sub><b>의사결정나무.code</b></sub></a><br /><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/be2e61acdea360a0747bfd57bfbb7547e147ca01/AI/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4" title="Code">
+</tr>
+  
+  
+  
