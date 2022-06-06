@@ -23,10 +23,10 @@ width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https
     
 
 
-# 지도학습, 비지도학습, 강화학습
-
 </table>
 
+
+# 지도학습, 비지도학습, 강화학습
 
 ![image](https://user-images.githubusercontent.com/53076307/172118932-8785c1cd-2171-4dfc-8b6b-8e7b3ca2e151.png)
 
