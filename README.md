@@ -108,6 +108,8 @@ width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https
 </table>
 
 # 인공지능 학습 관련 알고리즘 코드
+![image](https://user-images.githubusercontent.com/53076307/172209445-7869d509-5c1f-46ca-988d-2a048cd20268.png)
+
 </table>
 <tr>
 <td align="center"><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/be2e61acdea360a0747bfd57bfbb7547e147ca01/AI/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/Support%20vector%20machine">
