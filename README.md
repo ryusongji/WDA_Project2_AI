@@ -37,13 +37,10 @@ width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https
 
 (= 입력과 타깃으로 모델을 훈련)
 지도 학습은 인간이 프로그램을 지도해주는 것이다.
-
  </table>
  <tr>
-
 <td align="center"><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/923dfe4fe8984c91fa387e8b3e66fadebc23ccb5/AI/%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5">
 <br /><sub><b>지도학습pdf</b></sub></a><br /><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/923dfe4fe8984c91fa387e8b3e66fadebc23ccb5/AI/%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5" title="Code">
-
 </tr>
 
 # 비지도학습
